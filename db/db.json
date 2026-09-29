@@ -1,0 +1,73 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "username": "jeevzz",
+      "profileImage": "/src/assets/profile1.jpg",
+      "postImage": "/src/assets/post1.jpg",
+      "caption": "Building something new with React 🚀",
+      "likes": 245,
+      "comments": 18,
+      "time": "2 hours ago"
+    },
+    {
+      "id": 2,
+      "username": "sabari",
+      "profileImage": "/src/assets/profile2.jpg",
+      "postImage": "/src/assets/post2.jpg",
+      "caption": "Beautiful day ✨",
+      "likes": 389,
+      "comments": 32,
+      "time": "4 hours ago"
+    },
+    {
+      "id": 3,
+      "username": "akash",
+      "profileImage": "/src/assets/profile3.jpg",
+      "postImage": "/src/assets/post3.jpg",
+      "caption": "Weekend vibes 🌴",
+      "likes": 521,
+      "comments": 45,
+      "time": "6 hours ago"
+    },
+    {
+      "id": 4,
+      "username": "rahul",
+      "profileImage": "/src/assets/profile4.jpg",
+      "postImage": "/src/assets/post4.jpg",
+      "caption": "Keep learning. Keep growing. 💻",
+      "likes": 178,
+      "comments": 12,
+      "time": "1 day ago"
+    }
+  ],
+  "profile":
+  {
+    "id": 101,
+    "username": "jeevzz",
+    "profileImage": "/src/assets/profile1.jpg"
+  },
+  "Suggestions":[
+    {
+      "id": 1,
+      "username": "jeevzz",
+      "profileImage": "/src/assets/profile1.jpg"
+    },
+    {
+      "id": 2,
+      "username": "sabari",
+      "profileImage": "/src/assets/profile2.jpg"
+    },
+    {
+      "id": 3,
+      "username": "akash",
+      "profileImage": "/src/assets/profile3.jpg"
+    },
+    {
+      "id": 4,
+      "username": "rahul",
+      "profileImage": "/src/assets/profile4.jpg"
+    }
+  ]
+
+}
